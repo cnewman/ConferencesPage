@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link href="http://www.sdml.info/Stylesheets/pagedesignmfh.css" rel="stylesheet" type="text/css" />
+
+	<link href="http://www.sdml.info/Stylesheets/print.css" rel="stylesheet" type="text/css" media="print" />
+<!--
+	<link href="http://www.sdml.info/Stylesheets/rss.css" rel="stylesheet" type="text/css"/>
+
+	<link href="http://www.sdml.info/feed.rss" rel="alternate" type="application/rss+xml" title="SDML News"/>
+-->
+<title>Software Engineering Conferences</title><script type="text/javascript">
+function oNwTab(_this)
+{
+	window.open(_this.href,'_blank');
+}
+</script></head>
+  <body class="conferences"><div id="header"><div class="logo">
+  <a href="index.html">&lt;SDML&gt;</a> <span id="sitetitle">Software Development Laboratory</span>
+  </div></div><div id="content"><div class="page"><h1>Conferences</h1><table class="conferences">
+
+  <tr>
+  <th>Conference</th>
+  <th>Conference Date</th>
+  <th>Location</th>
+  <th>Deadline</th>
+  </tr>
+
+  <tr>
+  <td class="category-heading open" colspan="4">Open submission</td>
+  </tr>
+  {% for confer in conf_list %}
+    {% if confer.confStatus == "Open" %}
+        <tr class="{{ confer.confStatus }}">
+        <td><a onclick="oNwTab(this);return false;" href="{{ confer.linkName }}">{{ confer.confName }}</a></td>
+        <td class="date">{{ confer.confDate }}</td>
+        <td>{{ confer.confLoc }}</td>
+        <td class="deadline">Paper: {{ confer.pprDate }}<br />
+					       Abstract: {{ confer.abstrDate }} </td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+
+  <tr>
+  <td class="category-heading open" colspan="4">Closed submission</td>
+  </tr>
+
+  {% for confer in conf_list %}
+    {% if confer.confStatus == "Closed" %}
+      <tr class="{{ confer.confStatus }}">
+        <td><a onclick="oNwTab(this);return false;" href="{{ confer.linkName }}">{{ confer.confName }}</a></td>
+        <td class="date">{{ confer.confDate }}</td>
+        <td>{{ confer.confLoc }}</td>
+        <td class="deadline">Paper: {{ confer.pprDate }}<br />
+                Abstract: {{ confer.abstrDate }} </td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+
+  <tr>
+  <td class="category-heading open" colspan="4">Past Conferences</td>
+  </tr>
+
+  {% for confer in conf_list %}
+    {% if confer.confStatus == "Past" %}
+      <tr class="{{ confer.confStatus }}">
+        <td><a onclick="oNwTab(this);return false;" href="{{ confer.linkName }}">{{ confer.confName }}</a></td>
+        <td class="date">{{ confer.confDate }}</td>
+        <td>{{ confer.confLoc }}</td>
+        <td class="deadline">Paper: {{ confer.pprDate }}<br />
+                Abstract: {{ confer.abstrDate }} </td>
+      </tr>
+    {% endif %}
+  {% endfor %}
+
+</table></div>
+<div id="menu"><ul>
+      <li><a href="http://www.sdml.info/index.html">Home</a></li>
+      <li><a href="http://www.sdml.info/people.html" title="Members of SDML">Participants</a></li>
+      <li><a href="http://www.sdml.info/publications.html" title="Publications by the members of SDML">Publications</a></li>
+      <li><a href="http://www.sdml.info/research.html" title="Current research be conducted by SDML">Research</a></li>
+      <li><a href="http://www.sdml.info/tools.html" title="Software tools developed by SDML">Tools</a></li>
+      <li><span title="General list of resources">Resources</span>
+      <ul>
+        <li><a href="http://www.sdml.info/conferences.html" title="Conferences we are interested in">Conferences</a></li>
+        <li><a href="http://www.sdml.info/library.html" title="Links to conference proceedings and journals">Library</a></li>
+      </ul>
+      </li>
+      <li><a href="http://www.sdml.info/contact.html" title="How to contact SDML">Contact</a></li>
+    </ul></div>
+</div><div id="footer">
+<div class="modinfo"><p>Contents last modified on Thu Jan 30 14:11:54 2014 EST.
+		Page generated on Thu Jan 30 15:05:24 2014 EST.
+		<a href="mailto:webmaster@sdml.info">webmaster@sdml.info</a></p></div></div></body>
+</html>

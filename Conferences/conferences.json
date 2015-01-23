@@ -1,0 +1,1558 @@
+{"Conference_List":{
+    "Conference":[
+    {
+		"confstatus":"Open",
+		"linkname":"http://ase2015.unl.edu/",
+		"confname":"ASE 2015",
+		"confdate":"November 9 - 13, 2015",
+		"location":"Lincoln, Nebraska",
+		"paperdate":"May 15, 2015",
+		"abstractdate":"May 8, 2015 "
+	},
+    {
+		"confstatus":"Open",
+		"linkname":"http://esec-fse15.dei.polimi.it/",
+		"confname":"ESEC/FSE 2015",
+		"confdate":"Aug 31, 2015 - Sep 4, 2015",
+		"location":"Bergamo, Italy",
+		"paperdate":"March 16, 2015",
+		"abstractdate":"N/A"
+	},
+    {
+		"confstatus":"Open",
+		"linkname":"http://2015.msrconf.org/",
+		"confname":"MSR 2015",
+		"confdate":"May 16 - 17, 2015",
+		"location":"Florence, Italy",
+		"paperdate":"February 15th, 2015",
+		"abstractdate":"February 6th, 2015"
+	},
+    {
+		"confstatus":"Open",
+		"linkname":"https://dibt.unimol.it/ICPC15/Home.html",
+		"confname":"ICPC 2015",
+		"confdate":"May 18 - 19, 2015",
+		"location":"Florence, Italy",
+		"paperdate":"January 26th, 2015",
+		"abstractdate":"January 19th, 2015"
+	},
+    {
+		"confstatus":"Closed",
+		"linkname":"http://2015.icse-conferences.org/",
+		"confname":"ICSE 2015 NIER",
+		"confdate":"May 16 - 24, 2015",
+		"location":"Florence, Italy",
+		"paperdate":"Paper: November 21, 2014",
+		"abstractdate":"N/A"
+	},
+    {
+		"confstatus":"Closed",
+		"linkname":"http://saner.soccerlab.polymtl.ca",
+		"confname":"SANER",
+		"confdate":"March 2- 6, 2015",
+		"location":"Montreal, Canada",
+		"paperdate":"Paper: November 14, 2014",
+		"abstractdate":"November 7, 2014"
+	},		
+    {
+		"confstatus":"Closed",
+		"linkname":"http://2015.icse-conferences.org/",
+		"confname":"ICSE 2015",
+		"confdate":"May 16 - 24, 2015",
+		"location":"Firenze, Italy",
+		"paperdate":"September 5th, 2014"
+	},
+    {
+		"confstatus":"Past",
+		"linkname":"http://www.icsme2014.org/",
+		"confname":"FSE 2014",
+		"confdate":"March 16, 2014",
+		"location":"Hong Kong, China",
+		"paperdate":"March 16, 2014"
+	},
+    {
+		"confstatus":"Past",
+		"linkname":"http://www.icsme2014.org/",
+		"confname":"ICSME 2014",
+		"confdate":"September 20 - 26, 2014",
+		"location":"British Columbia, Canada",
+		"paperdate":"May 6, 2014"
+	},
+    {
+		"confstatus":"Past",
+		"linkname":"http://2013.icse-conferences.org/",
+		"confname":"ICSE 2013",
+		"confdate":"May 18-26, 2013",
+		"location":"San Francisco, California",
+		"paperdate":"August 17, 2012"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://2013.msrconf.org/",
+		"confname":"MSR 2013",
+		"confdate":"May 18 - 19th, 2013",
+		"location":"San Francisco, California",
+		"paperdate":"February 15th, 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cse.msstate.edu/~tefse13/",
+		"confname":"TEFSE 2013",
+		"confdate":"May 19th, 2013",
+		"location":"San Francisco, California",
+		"paperdate":"February 15th, 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ing.unisannio.it/icpc2013/",
+		"confname":"ICPC 2013",
+		"confdate":"May 20 - 21st, 2013",
+		"location":"San Francisco, California",
+		"paperdate":"March 8th, 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://esec-fse.inf.ethz.ch/",
+		"confname":"ESEC/FSE 2013",
+		"confdate":"August 18-26th, 2013",
+		"location":"Saint Petersburg, Russia",
+		"paperdate":"March 1st, 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icsm2013.tue.nl/",
+		"confname":"ICSM 2013",
+		"confdate":"September 22-28, 2013",
+		"location":"Eidhoven, Netherlands",
+		"paperdate":"April 24th, 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ieee-scam.org/2013/",
+		"confname":"SCAM 2013",
+		"confdate":"September 22-23, 2013",
+		"location":"Eidhoven, Netherlands",
+		"paperdate":"April 21st, 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://wcre.wikidot.com/2013",
+		"confname":"WCRE 2013",
+		"confdate":"October 14 - 17th, 2013",
+		"location":"Koblenz, Germany",
+		"paperdate":"June 21st, 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://ase2013.org/",
+		"confname":"ASE 2013",
+		"confdate":"November 11 - 15th, 2013",
+		"location":"Paulo Alto, California",
+		"paperdate":"May 17th 2013"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://distat.unimol.it/wcre2012/",
+		"confname":"WCRE 2012",
+		"confdate":"October 15-18, 2012",
+		"location":"Kingston, Ontario, Canada",
+		"paperdate":"June 27, 2012 (ext. July 11, 2012)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://2012.issre.net/",
+		"confname":"ISSRE 2012",
+		"confdate":"Nov. 27-30, 2012",
+		"location":"Dallas, TX",
+		"paperdate":" May 4, 2012 (ext. May 25, 2012)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://planet-sl.org/sle2012/",
+		"confname":"SLE 2012",
+		"confdate":"September 25-28, 2012",
+		"location":"Dresden, Germany",
+		"paperdate":"June 11, 2012"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://scam2012.cs.usask.ca/",
+		"confname":"SCAM 2012",
+		"confdate":"September 23-24, 2012",
+		"location":"Riva del Garda, Trento, Italy",
+		"paperdate":"May 04, 2012 (ext. May 07, 2012)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://ase2012.paluno.uni-due.de/",
+		"confname":"ASE 2012",
+		"confdate":"September 3-7, 2012",
+		"location":"Essen, Germany",
+		"paperdate":"March 2, 2012 (Ext.  March 9)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://esem.cs.lth.se/esem2012/esem/index.shtml",
+		"confname":"ESEM 2012",
+		"confdate":"September 20-21, 2012",
+		"location":"Lund, Sweden",
+		"paperdate":"March 11, 2012"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.sigsoft.org/fse20/index.html",
+		"confname":"FSE 2012",
+		"confdate":"November 13-15, 2012",
+		"location":"Cary, NC",
+		"paperdate":"March 16, 2012"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://selab.fbk.eu/icsm2012",
+		"confname":"ICSM 2012",
+		"confdate":"Sept 23-28, 2012",
+		"location":"Riva del Garda, Trento, Italy",
+		"paperdate":"April 20, 201"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://splashcon.org/2012/",
+		"confname":"OOPSLA 2012",
+		"confdate":"October 19-26, 2012",
+		"location":"Tucson, Arizona",
+		"paperdate":"April 13, 2012"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.msrconf.org/2012/",
+		"confname":"MSR 2012",
+		"confdate":"June 2-3, 2012",
+		"location":"Zurich, Switzerland",
+		"paperdate":"Feb 10, 201"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icpc12.sosy-lab.org/",
+		"confname":"ICPC 2012",
+		"confdate":"June 11-13, 2012",
+		"location":"Passau, Bavaria, Germany",
+		"paperdate":"Feb 17, 201"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ifi.uzh.ch/icse2012/",
+		"confname":"ICSE 2012",
+		"confdate":"Jun 29, 2012",
+		"location":"Zurich, Switzerland",
+		"paperdate":"September 29, 2011"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://ecoop12.cs.purdue.edu/",
+		"confname":"ECOOP 2012",
+		"confdate":"11-13 June, 2012",
+		"location":"Beijing, China",
+		"paperdate":"December 17, 2011"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.etra2012.org/",
+		"confname":"ETRA 2012",
+		"confdate":"March 28-30, 2012",
+		"location":"Santa Barbara, California",
+		"paperdate":"October 14th, 2012"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://csmr2012.sed.hu/",
+		"confname":"CSMR 2012",
+		"confdate":"March 27-30, 2012",
+		"location":"Szeged, Hungary",
+		"paperdate":"October 28, 201"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.wm.edu/icsm2011/",
+		"confname":"ICSM 2011",
+		"confdate":"September 25-October 1, 2011",
+		"location":"Williamsburg, VA",
+		"paperdate":"April 15, 201"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ieee-scam.org/2011",
+		"confname":"SCAM 2011",
+		"confdate":"September 25-26, 2011",
+		"location":"Williamsburg, VA",
+		"paperdate":"April 15, 2011"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.wm.edu/icsm2011/wse2011/",
+		"confname":"WSE 2011",
+		"confdate":"September 30, 2011",
+		"location":"Williamsburg, VA",
+		"paperdate":"May 9, 2011"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://vissoft.iro.umontreal.ca/",
+		"confname":"VISSOFT 2011",
+		"confdate":"September 29-30, 2011",
+		"location":"Williamsburg, VA",
+		"paperdate":"May 23, 2011"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://planet-sl.org/sle2011/",
+		"confname":"SLE 2011",
+		"confdate":"July 3-6, 2011",
+		"location":"Braga, Portugal",
+		"paperdate":"April 8, 2011"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icpc2011.cs.usask.ca/conf_site/Home.html",
+		"confname":"ICPC 2011",
+		"confdate":"June 22-24, 2011",
+		"location":"Kingston, Ontario, Canada",
+		"paperdate":"February 7, 2011"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://2011.msrconf.org/",
+		"confname":"MSR 2011",
+		"confdate":"May 21-22, 2011",
+		"location":"Honolulu, Hawaii",
+		"paperdate":"January 26, 2011"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://2011.icse-conferences.org/",
+		"confname":"ICSE 2011",
+		"confdate":"May 21-28, 2011",
+		"location":"Honolulu, Hawaii",
+		"paperdate":"August 20, 2010"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://web.soccerlab.polymtl.ca/wcre2010/",
+		"confname":"WCRE 2010",
+		"confdate":"October 13-16, 2010",
+		"location":"Boston, MA",
+    	"paperdate":"June 21, 2010 (Ext. June 25)"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.hope.cs.rice.edu/twiki/bin/view/GPCE10",
+		"confname":"GPCE 2010",
+		"confdate":"October 10-13, 2010",
+		"location":"Eindhoven, The Netherlands",
+    	"paperdate":"May 24, 2010"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.st.uni-trier.de/~diehl/softvis/org/softvis10/",
+		"confname":" SoftVis 2010",
+		"confdate":"October 25-26, 2010",
+		"location":" Salt Lake City, Utah",
+		"paperdate":" April 30,"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icsm2010.upt.ro/",
+		"confname":"ICSM 2010",
+		"confdate":"September 12-18, 2010",
+		"location":"Timisoara, Romania",
+		"paperdate":"April 16, 2010"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.websiteevolution.org/2010/",
+		"confname":"WSE 2010",
+		"confdate":"September 17-18, 2010",
+		"location":"Timisoara, Romania",
+		"paperdate":"May 30, 2010"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://soft.vub.ac.be/ase2010/start",
+		"confname":"ASE 2010",
+		"confdate":"September 20-24, 2010",
+		"location":"Antwerp, Belgium",
+		"paperdate":"March 15, 2010"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www2010.ieee-scam.org/",
+		"confname":"SCAM 2010",
+		"confdate":"September 12-13, 2010",
+		"location":"Timisoara, Romania",
+		"paperdate":"April 30, 2010"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.diagrams-conference.org/2010/",
+		"confname":"Diagrams 2010",
+		"confdate":"August 9-11, 2010",
+		"location":"Portland, Oregon",
+		"paperdate":"January 18, 2010"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icpc2010.di.uminho.pt/",
+		"confname":"ICPC 2010",
+		"confdate":"June 30-July 2, 2010",
+		"location":"Braga, Portugal",
+		"paperdate":"Feb. 14 2010"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.sbs.co.za/ICSE2010/",
+		"confname":"ICSE 2010",
+		"confdate":"May 2-8, 2010",
+		"location":"Cape Town, South Africa",
+		"paperdate":"September 6, 2009"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://msr.uwaterloo.ca/msr2010/index.html",
+		"confname":"MSR 2010",
+		"confdate":"May 2-3, 2010",
+		"location":"Cape Town, South Africa",
+		"paperdate":"January 14, 2010"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://cseet2010.dei.uc.pt/index.php/Main_Page",
+		"confname":"CSEET 2010",
+		"confdate":"March 9-12, 2010",
+		"location":"Pittsburgh, PA",
+		"paperdate":"October 1, 2010 (Ext. Oct. 19)"	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"https://www.se.auckland.ac.nz/conferences/ase09/",
+		"confname":"ASE 2009",
+		"confdate":"November 16-20, 2009",
+		"location":"Auckland, New Zealand",
+		"paperdate":"May 11, 2009 (Ext. May 7)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.oopsla.org/oopsla2009/",
+		"confname":"OOPSLA 2009",
+		"confdate":"October 25-29, 2009",
+		"location":" Orlando, FL",
+		"paperdate":"March 23, 2009"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://web.soccerlab.polymtl.ca/wcre2009/index.html",
+		"confname":"WCRE 2009",
+		"confdate":"October 13-16, 2009",
+		"location":"Lille, France",
+		"paperdate":"June 20, 2009"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icsm2009.cs.ualberta.ca/",
+		"confname":"ICSM  2009",
+		"confdate":"September 20-26, 2009",
+		"location":" Edmonton, Canada",
+		"paperdate":"April 3, 2009 (Ext. April 10)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://vissoft.inf.unisi.ch/",
+		"confname":"VISSOFT 2009",
+		"confdate":"September 25-26, 2009",
+		"location":" Edmonton, Canada",
+		"paperdate":" April 20, 2009 (Ext. M"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www2009.ieee-scam.org/",
+		"confname":"SCAM 2009",
+		"confdate":"September 20-21, 2009",
+		"location":" Edmonton, Canada",
+		"paperdate":"April 27, 2009 (Ext. May 4)"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.sei.buaa.edu.cn/wse09/",
+		"confname":"WSE 2009",
+		"confdate":"September 26-27, 2009",
+		"location":"Edmonton, Canada",
+  		"paperdate":"June 5, 2009 (Ext. June 12)" 
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://ssel.vub.ac.be/iwpse-evol/",
+		"confname":"IWPSE-EVOL 2009",
+		"confdate":"August 24-25, 2009",
+		"location":"Amsterdam, The Netherlands",
+		"paperdate":"May 28, 2009"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.esec-fse-2009.ewi.tudelft.nl/",
+		"confname":"ESEC/FSE 2009",
+		"confdate":"August 24-28, 2009",
+		"location":"Amsterdam, The Netherlands",
+		"paperdate":"March 16, 2009"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.re09.org/",
+		"confname":"RE 2009",
+		"confdate":"Aug. 31 - Sep. 4, 2009",
+		"location":"Atlanta, GA",
+		"paperdate":"February 12, 2010"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.uoregon.edu/events/icse2009/home/",
+		"confname":"ICSE 2009",
+		"confdate":"May 16-24, 2009",
+		"location":"Vancouver, Canada",
+		"paperdate":"September 5, 2009"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://msr.uwaterloo.ca/msr2009/index.html",
+		"confname":"MSR 2009",
+		"confdate":"May 16-18, 2009",
+		"location":"Vancouver, Canada",
+		"paperdate":"March 6, 2009"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icpc.csi.muohio.edu/ICPC_2009.html",
+		"confname":"ICPC 2009",
+		"confdate":"May 17-19, 2009",
+		"location":"Vancouver, Canada",
+    	"paperdate":"January 19, 2009"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://web.soccerlab.polymtl.ca/tefse09/",
+		"confname":"TEFSE 2009",
+		"confdate":"May 18, 2009",
+		"location":"Vancouver, Canada",
+    	"paperdate":"January 24, 2009"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cc.gatech.edu/conferences/fse16/",
+		"confname":"FSE 2008",
+		"confdate":"November 9 - 15, 2008",
+		"location":"Atlanta, GA",
+		"paperdate":"March 7, 2008"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"https://www-927.ibm.com/ibm/cas/cascon/",
+		"confname":"CASCON 2008",
+		"confdate":"October 27 - 30, 2008",
+		"location":"Richmond Hill, ON",
+		"paperdate":"May 26, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.esem-conferences.org/index.php",
+		"confname":"ESEM 2008",
+		"confdate":"October 9 - 10, 2008",
+		"location":"Kaiserslautern, Germany",
+		"paperdate":"Short May 20, 2008"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://swerl.tudelft.nl/wcre2008/calls/cftp.htm",
+		"confname":"WCRE 2008",
+		"confdate":"October 15 - 18, 2008",
+		"location":"Antwerp, Belgium",
+		"paperdate":"June 20, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.oopsla.org/oopsla2008/",
+		"confname":"OOPSLA 2008",
+		"confdate":"October 19 - 23, 2008",
+		"location":"Nashville, TN",
+		"paperdate":"March 19, 2008"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.hope.cs.rice.edu/twiki/bin/view/GPCE08/WebHome",
+		"confname":"GPCE 2008",
+		"confdate":"October 19 - 23, 2008",
+		"location":"Nashville, TN",
+		"paperdate":"May 19, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.icsm2008.org/",
+		"confname":"ICSM 2008",
+		"confdate":"September 28 - October 4, 2008",
+		"location":"Beijing, China",
+		"paperdate":"April 4, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://serlab.di.uniba.it/EASE2008/index.html",
+		"confname":"EASE 2008",
+		"confdate":"June 26 - 27, 2008",
+		"location":"Bari, Italy",
+		"paperdate":"May 15, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.vtt.fi/proj/qacos2008/index.jsp",
+		"confname":"QACOS 2008",
+		"confdate":"July 28 - August 1, 2008",
+		"location":"Turku, Finland",
+		"paperdate":"March 14, 2008"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.di.univaq.it/ase2008/",
+		"confname":"ASE 2008",
+		"confdate":"September 15 - 19, 2008",
+		"location":"L'Aquila, Italy",
+		"paperdate":"April 4, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://vlhcc08.cs.unibw.de/index.php",
+		"confname":"VL/HCC 2008",
+		"confdate":"September 16 - 20, 2008",
+		"location":"Herrsching, Germany",
+		"paperdate":"March 6, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www2008.ieee-scam.org/",
+		"confname":"SCAM 2008",
+		"confdate":"September 28 - 29, 2008",
+		"location":"Beijing, China",
+		"paperdate":"April 28, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.st.uni-trier.de/~diehl/softvis/org/softvis08/",
+		"confname":"SOFTVIS 2008",
+		"confdate":"September 16 - 17, 2008",
+		"location":"Herrsching, Germany",
+		"paperdate":"April 11, 2008"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cmis.brighton.ac.uk/diagrams2008/index.php",
+		"confname":"Diagrams 2008",
+		"confdate":"September 19 - 21, 2008",
+		"location":"Herrsching, Germany",
+		"paperdate":"April 1, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.modelsconference.org/",
+		"confname":"MODELS 2008",
+		"confdate":"September 28 - October 3, 2008",
+		"location":"Toulouse, France",
+		"paperdate":"May 16, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://wse2008.fbk.eu/",
+		"confname":"WSE 2008",
+		"confdate":"October 3 - 4, 2008",
+		"location":"Beijing, China",
+		"paperdate":"June 6, 2008"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.vu.nl/icpc2008/",
+		"confname":"ICPC 2008",
+		"confdate":"June 10-13, 2008",
+		"location":"Amsterdam, The Netherlands",
+		"paperdate":"January 25 , February 1, 2008"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://msr.uwaterloo.ca/msr2008/",
+		"confname":"MSR 2008",
+		"confdate":" May 10-11, 2008",
+		"location":"Leipzig, Germany",
+		"paperdate":"January 24, 2008"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icse08.upb.de/",
+		"confname":"ICSE 2008",
+		"confdate":"May 10-18, 2008",
+		"location":"Leipzig, Germany",
+		"paperdate":"September 14, 2007"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cse.msu.edu/ase2007/workshops/WEASELTech07/",
+		"confname":"WEASEL 2007",
+		"confdate":" Nov 6, 2007",
+		"location":"Atlanta, GA",
+		"paperdate":"August 31, 2007"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.iaria.org/conferences2007/IRP.html",
+		"confname":"IRP 2007",
+		"confdate":" August 25-31, 2007",
+		"location":"Cap Esterel, France",
+		"paperdate":"March 25, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.idt.mdh.se/esec-fse-2007/",
+		"confname":"ESEC/FSE 2007",
+		"confdate":" Sept 3-7, 2007",
+		"location":"Dubrovnik, Croatia",
+		"paperdate":" March 19, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www2007.ieee-scam.org/",
+		"confname":"SCAM 2007",
+		"confdate":" Sept 30-Oct 1, 2007",
+		"location":"Paris, France",
+		"paperDate":"May 5, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icsm07.ai.univ-paris8.fr/",
+		"confname":"ICSM 2007",
+		"confdate":" Oct 2-4, 2007",
+		"location":"Paris, France",
+		"paperdate":"April 13, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.websiteevolution.org/2007/",
+		"confname":"WSE 2007",
+		"confdate":" Oct 5-6, 2007",
+		"location":"Paris, France",
+		"paperdate":" June 15, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.re07.org/",
+		"confname":" RE 2007",
+		"confdate":"Oct 12, 2007",
+		"location":"Delhi, India",
+		"paperDate":"Feb 12, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.oopsla.org/oopsla2007/",
+		"confname":"OOPSLA 2007",
+		"confdate":" Oct 21-25, 2007",
+		"location":"Montreal, Canada",
+		"paperdate":" March 19, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.rcost.unisannio.it/wcre2007/",
+		"confname":"WCRE 2007",
+		"confdate":" 28-31 Oct, 2007 (Changed)",
+		"location":"Vancouver, BC",
+		"paperDate":"June 18, 2007" 
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://iwpse2007.inf.unisi.ch/",
+		"confname":"IWPSE 2007",
+		"confdate":" Nov 3-4, 2007",
+		"location":"Dubrovnik, Croatia",
+		"paperDate":"May 25, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cse.msu.edu/ase2007/",
+		"confname":"ASE 2007",
+		"confdate":" Nov 5-7, 2007",
+		"location":"Atlanta, GA",
+		"paperDate":"June 11, 2007"
+	},
+	{	
+		"confstatus":"Past",
+		"linkname":"http://chi2007.org/",
+		"confname":"CHI 2007",
+		"confdate":"Apr 28-May 03, 2007",
+		"location":"San Jose, CA",
+		"paperdate":"Sep 29, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://msr.uwaterloo.ca/msr2007/",
+		"confname":"MSR 2007",
+		"confdate":"May 19-20, 2007",
+		"location":"Minneapolis, MN",
+		"paperdate":"Jan 20, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://web4.cs.ucl.ac.uk/icse07/",
+		"confname":"ICSE 2007",
+		"confdate":"May 20-26, 2007",
+		"location":"Minneapolis, MN",
+		"paperdate":"Sep 8, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.program-comprehension.org/vissoft07/",
+		"confname":"VISSOFT 2007",
+		"confdate":"June 25, 2007",
+		"location":"Banff,  Canada",
+		"paperdate":"March 23, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.ualberta.ca/icpc2007/",
+		"confname":"ICPC 2007",
+		"confdate":"June 26-29, 2007",
+		"location":"Banff,  Canada",
+		"paperdate":"Feb 16, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.traceabilitycenter.org/events/TEFSE07/",
+		"confname":"GCT/TEFSE 2007",
+		"confdate":"March 22-23, 2007",
+		"location":"Lexington, KY",
+		"paperdate":"Jan 12, 2007"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.gv.psu.edu/WICSA2007/",
+		"confname":"WICSA 2007",
+		"confdate":"Jan 6-9, 2007",
+		"location":"Mumbai, India",
+		"paperDate":"July 16, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.uoregon.edu/fse-14/",
+		"confname":"FSE 2006",
+		"confdate":"Nov 5-11, 2006",
+		"location":"Portland, Oregon",
+		"paperdate":"Apr 11, 2006"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://conferences.computer.org/infovis/infovis2006/",
+		"confname":"InfoVis 2006",
+		"confdate":"Oct 29-Nov 3, 2006",
+		"location":"Baltimore, MD",
+		"paperDate":"Mar 31 2006"
+	},
+	{ 
+		"confstatus":"Past",
+		"linkname":"http://www.rcost.unisannio.it/wcre2006/",
+		"confname":"WCRE 2006",
+		"confdate":"Oct 23-27, 2006",
+		"location":"Benevento, Italy",
+		"paperdate":"Jun 07, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.oopsla.org/2006/",
+		"confname":"OOPSLA 2006",
+		"confdate":"Oct 22-26, 2006",
+		"location":"Portland, OR",
+		"paperdate":"Mar 18, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.oopsla.org/2006/",
+		"confname":"ETX 2006 (OOPSLA)",
+		"confdate":"Oct 22-23, 2006",
+		"location":"Portland, OR",
+		"paperdate":" Aug 23, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.program-transformation.org/Sts/STS06",
+		"confname":"STS 2006",
+		"confdate":"Oct 22, 2006",
+		"location":"Portland, OR",
+		"paperDate":"July 15, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cwi.nl/events/2006/DocEng2006/",
+		"confname":"DocEng 2006",
+		"confdate":"Oct 10-13, 2006",
+		"location":"Amsterdam, The Netherlands",
+		"paperdate":"May 26, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.modelsconference.org/",
+		"confname":"MODELS 2006",
+		"confdate":"Oct 1-6. 2006",
+		"location":"Genova, Italy",
+		"paperDate":"Apr 3, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://rw4.cs.uni-sb.de/~diehl/softvis/org/softvis06/",
+		"confname":"SoftVis 2006",
+		"confdate":"Sep 4-5, 2006",
+		"location":"Brighton, UK",
+		"paperdate":"Apr 7, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ifi.unizh.ch/req/events/RE06/",
+		"confname":"RE 2006",
+		"confdate":"Sep 11-15, 2006",
+		"location":"St. Paul, Minnesota",
+		"paperDate":"Feb 13, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ase-conference.jp/",
+		"confname":"ASE 2006",
+		"confdate":"Sep 18-22, 2006",
+		"location":"Tokyo, Japan",
+		"paperDate":"Mar 3, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cos.ufrj.br/~ght/isese2006.htm",
+		"confname":"ISESE 2006",
+		"confdate":"Sep 21-22, 2006",
+		"location":"Rio de Janeiro, Brazil",
+		"paperdate":"March 01, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ece.queensu.ca/wse2006/",
+		"confname":"WSE 2006",
+		"confdate":"Sep 23-24, 2006",
+		"location":"Philadelphia, PA",
+		"paperdate":"June 19, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://homepages.feis.herts.ac.uk/~comqcln//EN/software_evolvability06.html",
+		"confname":"SE 2006",
+		"confdate":"Sep 24, 2006",
+		"location":"Philadelphia, PA",
+		"paperdate":"July 1, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://icsm2006.cs.drexel.edu",
+		"confname":"ICSM 2006",
+		"confdate":"Sep 24-27, 2006",
+		"location":"Philadelphia, PA",
+		"paperdate":"Mar 31, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.dcs.kcl.ac.uk/staff/mark/scam2006/",
+		"confname":"SCAM 2006",
+		"confdate":"Sep 27-29",
+		"location":"Philadelphia, PA",
+		"paperDate":" May 2, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ieee-iwpc.org/",
+		"confname":"ICPC 2006",
+		"confdate":"Jun 14-16, 2006",
+		"location":"Athens, Greece",
+		"paperdate":"Jan 20, 2006"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.isr.uci.edu/icse-06/",
+		"confname":"ICSE 2006",
+		"confdate":"May 20-28, 2006",
+		"location":"Shanghai, China",
+		"paperdate":"Sep 9, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://msr.uwaterloo.ca/msr2006/",
+		"confname":"MSR 2006",
+		"confdate":"May 22-23, 2006",
+		"location":"Shanghai, China",
+		"paperDate":"Feb 1, 2006"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.documentengineering.org/",
+		"confname":"DocEng 2005",
+		"confdate":"Nov 2-4, 2005",
+		"location":"Bristol, United Kingdom",
+		"paperdate":"May 13, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://re.cs.depaul.edu/tefse05/",
+		"confname":"TEFSE'05",
+		"confdate":"Nov 7, 2005",
+		"location":"Long Beach, California",
+		"paperdate":"Aug 23, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ase-conference.org",
+		"confname":"ASE 2005",
+		"confdate":"Nov 7-11, 2005",
+		"location":"Long Beach, California",
+		"paperdate":"May 31, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.rcost.unisannio.it/wcre2005",
+		"confname":"WCRE 2005",
+		"confdate":"Nov 8-11, 2005",
+		"location":"Pittsburgh, Pennsylvania",
+		"paperdate":"May 12, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.rcost.unisannio.it/iwpse2005/html/paper.htm",
+		"confname":"IWPSE 2005",
+		"confdate":"Sep 5-9, 2005",
+		"location":"Lisbon, Portugal",
+		"paperdate":"Apr 25, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://esecfse05.di.fct.unl.pt/",
+		"confname":"FSE 2005",
+		"confdate":"Sep 5-9, 2005",
+		"location":"Lisbon, Portugal",
+		"paperdate":"Apr 4, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.sdml.info/vissoft05/",
+		"confname":"VISSOFT 2005",
+		"confdate":"Sep 25, 2005",
+		"location":"Budapest, Hungary",
+		"paperdate":"Jun 10, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.inf.u-szeged.hu/icsm2005/",
+		"confname":"ICSM 2005",
+		"confdate":"Sep 25-30, 2005",
+		"location":"Budapest, Hungary",
+		"paperdate":"April 3, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.dcs.kcl.ac.uk/staff/mark/scam2005/",
+		"confname":"SCAM 2005",
+		"confdate":"Sep 30-Oct 1, 2005",
+		"location":"Budapest, Hungary",
+		"paperdate":"Apr 29, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.colostate.edu/models05",
+		"confname":"MoDELS 2005",
+		"confdate":"Oct 2-7, 2005",
+		"location":"Montego Bay, Jamaica",
+		"paperdate":"Mar 21, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.oopsla.org/2005/ShowPage.do?id=Home",
+		"confname":"OOPSLA 2005",
+		"confdate":"Oct 16-20, 2005",
+		"location":"San Diego, California",
+		"paperdate":"Mar 18, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.infovis.org/infovis/2005/",
+		"confname":"InfoVis 2005",
+		"confdate":"Oct 23-25, 2005",
+		"location":"Minneapolis, Minnesota",
+		"paperdate":"Apr 10, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.softvis.org/softvis05",
+		"confname":"SoftVis 2005",
+		"confdate":"May 14-15, 2005",
+		"location":"St. Louis, Missouri",
+		"paperdate":"Dec 8, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ieee-iwpc.org/iwpc2005",
+		"confname":"IWPC 2005",
+		"confdate":"May 15-16, 2005",
+		"location":"St. Louis, Missouri",
+		"paperdate":"Jan 26, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.wustl.edu/icse05/Home/",
+		"confname":"ICSE 2005",
+		"confdate":"May 15-21, 2005",
+		"location":"St. Louis, Missouri",
+		"paperdate":"Sep 1, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://msr.uwaterloo.ca/msr2005/",
+		"confname":"MSR 2005",
+		"confdate":"May 17, 2005",
+		"location":"St. Louis, Missouri",
+		"paperdate":"Feb 21, 2005"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://swerl.tudelft.nl/wcre2004/",
+		"confname":"WCRE 2004",
+		"confdate":"Nov 9-12, 2004",
+		"location":"Netherlands",
+		"paperdate":"May 30, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://infovis.org/infovis2004/",
+		"confname":"InfoVis 2004",
+		"confdate":"Oct 10-12, 2004",
+		"location":"Austin, Texas",
+		"paperdate":"Apr 9, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.sgidoc.org/2004",
+		"confname":"SIGDOC 2004",
+		"confdate":"Oct 10-13, 2004",
+		"location":"Memphis, Tennessee",
+		"paperdate":"Apr 30, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.oopsla.org/2004/",
+		"confname":"OOPSLA 2004",
+		"confdate":"Oct 24-28, 2004",
+		"location":"Vancouver, British Columbia",
+		"paperdate":"Mar 19, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.documentengineering.org/",
+		"confname":"DocEng 2004",
+		"confdate":"Oct 28-30, 2004",
+		"location":"Milwaukee, Wisconsin",
+		"paperdate":"May 3, 2004 (May 17, 2004)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.isr.uci.edu/FSE-12/",
+		"confname":"FSE 2004",
+		"confdate":"Oct 31-Nov 6, 2004",
+		"location":"Newport Beach, California",
+		"paperdate":"Mar 15, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://iwpse04.wakayama-u.ac.jp/",
+		"confname":"IWPSE 2004",
+		"confdate":"Sep 6-7, 2004",
+		"location":"Kyoto, Japan",
+		"paperdate":"May 13, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.iit.edu/~icsm2004/",
+		"confname":"ICSM 2004",
+		"confdate":"Sep 11-17, 2004",
+		"location":"Chicago, Illinois",
+		"paperdate":"Mar 15, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.swmetrics.org",
+		"confname":"Metrics",
+		"confdate":"Sep 11-17, 2004",
+		"location":"Chicago, Illinois",
+		"paperdate":"Feb 15, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.brunel.ac.uk/~csstmmh2/scam2004/",
+		"confname":"SCAM 2004",
+		"confdate":"Sep 15-16, 2004",
+		"location":"Chicago, Illinois",
+		"paperdate":"Apr 5, 2004 (Apr 12, 2004)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ase-conference.org/ASE2004/",
+		"confname":"ASE 2004",
+		"confdate":"Sep 20-25, 2004",
+		"location":"Linz, Austria",
+		"paperdate":"Apr 9, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://vlhcc04.dsi.uniroma1.it/",
+		"confname":"VL/HCC 2004",
+		"confdate":"Sep 26-29, 2004",
+		"location":"Rome, Italy",
+		"paperdate":"Mar 25, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.isese.org/",
+		"confname":"ISESE 2004",
+		"confdate":"Aug 19-20, 2004",
+		"location":"Redondo Beach, California",
+		"paperdate":"Jan 5, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.st.cs.uni-sb.de/Paste/",
+		"confname":"PASTE 2004",
+		"confdate":"Jun 7-8, 2004",
+		"location":"Washington, DC",
+		"paperdate":"Feb 9, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://seke.cpsc.ucalgary.ca/SEKE2004/",
+		"confname":"SEKE 2004",
+		"confdate":"Jun 20-24, 2004",
+		"location":"Banff, Alberta",
+		"paperdate":"Feb 15, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://iwpc2004.di.uniba.it/",
+		"confname":"IWPC 2004",
+		"confdate":"Jun 24-26, 2004",
+		"location":"Bari, Italy",
+		"paperdate":"Feb 19, 2004"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://conferences.iee.org/icse2004/",
+		"confname":"ICSE 2004",
+		"confdate":"May 23-28, 2004",
+		"location":"Edinburgh, Scotland",
+		"paperdate":"Sep 22, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.tut.fi/~csmr2004/",
+		"confname":"CSMR 2004",
+		"confdate":"Mar 24-26, 2004",
+		"location":"Tampere, Finland",
+		"paperdate":"Oct 15, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://wam.inrialpes.fr/doceng2003/",
+		"confname":"DocEng 2003",
+		"confdate":"Nov 20-22, 2003",
+		"location":"Grenoble, France",
+		"paperdate":"Jun 6, 2003 (Jun 16, 2003)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://reengineer.org/wcre2003/",
+		"confname":"WCRE 2003",
+		"confdate":"Nov 13-16, 2003",
+		"location":"Victoria, British Columbia",
+		"paperdate":"May 23, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://oopsla.acm.org/oopsla2003/files/",
+		"confname":"OOPSLA 2003",
+		"confdate":"Oct 26-30, 2003",
+		"location":"Anaheim, California",
+		"paperdate":"Mar 21, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://infovis.org/infovis2003/",
+		"confname":"InfoVis 2003",
+		"confdate":"Oct 19-20, 2003",
+		"location":"Seattle, Washington",
+		"paperdate":"Apr 10, 2003 (Mar 31, 2003)"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ase-conference.org/",
+		"confname":"ASE 2003",
+		"confdate":"Oct 6-10, 2003",
+		"location":"Montreal, Quebec",
+		"paperdate":"May 13, 2003"
+	
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://tefse.soi.city.ac.uk/",
+		"confname":"TEFSE 2003",
+		"confdate":"Oct 7, 2003",
+		"location":"Montreal, Quebec",
+		"paperdate":"Jul 7, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.vu.nl/icsm2003/",
+		"confname":"ICSM 2003",
+		"confdate":"Sep 22-26, 2003",
+		"location":"Amsterdam, The Netherlands",
+		"paperdate":"Mar 1, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.uvic.ca/~emstorey/vissoft2003/",
+		"confname":"VISSOFT 2003",
+		"confdate":"Sep 26, 2003",
+		"location":"Amsterdam, The Netherlands",
+		"paperdate":"NA"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://metric.cse.unsw.edu.au/Metrics2003/",
+		"confname":"METRICS 2003",
+		"confdate":"Sep 3-5, 2003",
+		"location":"Sydney, Australia",
+		"paperdate":"Dec 15, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://esecfse.cs.helsinki.fi/",
+		"confname":"ESEC/FSE 2003",
+		"confdate":"Sep 1-5, 2003",
+		"location":"Helsinki, Finland",
+		"paperdate":"Mar 14, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.lix.polytechnique.fr/~radhia/sas03/index.html",
+		"confname":"SAS 2003",
+		"confdate":"Jun 11-13, 2003",
+		"location":"San Diego, California",
+		"paperdate":"Feb 7, 2003"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.softvis.org/",
+		"confname":"SoftVis 2003",
+		"confdate":"Jun 11-13, 2003",
+		"location":"San Diego, California",
+		"paperdate":"Dec 16, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.iwpc2003.uvic.ca/",
+		"confname":"IWPC 2003",
+		"confdate":"May 10-11, 2003",
+		"location":"Portland, Oregon",
+		"paperdate":"Dec 20, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.orst.edu/icse2003/",
+		"confname":"ICSE 2003",
+		"confdate":"May 3-10, 2003",
+		"location":"Portland, Oregon",
+		"paperdate":"Sep 9, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.rcost.unisannio.it/csmr2003/",
+		"confname":"CSMR 2003",
+		"confdate":"Mar 26-28, 2003",
+		"location":"Benevento, Italy",
+		"paperdate":"Oct 18, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://aosd.net/conference.html",
+		"confname":"AOSD 2003",
+		"confdate":"Mar 17-21, 2003",
+		"location":"Boston, Massachusetts",
+		"paperdate":"Oct 11, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cs.pitt.edu/FSE-10/dates.html",
+		"confname":"FSE-10",
+		"confdate":"Nov 18-22, 2002",
+		"location":"Charleston, South Carolina",
+		"paperdate":"Mar 15, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.cis.ksu.edu/~santos/Paste2002/",
+		"confname":"PASTE 2002",
+		"confdate":"Nov 18-19, 2002",
+		"location":"Charleston, South Carolina",
+		"paperdate":"Jun 15, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.sdml.cs.kent.edu/doceng2002/",
+		"confname":"DocEng 2002",
+		"confdate":"Nov 8-9, 2002",
+		"location":"McLean, Virginia",
+		"paperdate":"Jun 15, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://oopsla.acm.org/",
+		"confname":"OOSPLA 2002",
+		"confdate":"Nov 4-8, 2002",
+		"location":"Seattle, Washington",
+		"paperdate":"Mar 22, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://reengineer.org/wcre2002/",
+		"confname":"WCRE 2002",
+		"confdate":"Oct 28-Nov 1, 2002",
+		"location":"Richmond, Virginia",
+		"paperdate":"May 15, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://vis.computer.org/vis2002/",
+		"confname":"VIS 2002",
+		"confdate":"Oct 27-Nov 1, 2002",
+		"location":"Boston, Massachusetts",
+		"paperdate":"Mar 29, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.acm.org/sigdoc/",
+		"confname":"SIGDOC 2002",
+		"confdate":"Oct 20-23, 2002",
+		"location":"Toronto, Ontario",
+		"paperdate":"Jun 8, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.icsm2002.org/",
+		"confname":"ICSM 2002",
+		"confdate":"Oct 3-6, 2002",
+		"location":"Montreal, Quebec",
+		"paperdate":"Mar 18, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.brunel.ac.uk/~csstmmh2/scam2002/",
+		"confname":"SCAM 2002",
+		"confdate":"Oct 1, 2002",
+		"location":"Montreal, Quebec",
+		"paperdate":"Apr 19, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://ase.cs.ucl.ac.uk/",
+		"confname":"ASE 2002",
+		"confdate":"Sep 23-27, 2002",
+		"location":"Edinburgh, Scotland",
+		"paperdate":"May 13, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.acm.org/sigkdd/kdd2002/",
+		"confname":"KDD 2002",
+		"confdate":"Jul 23-26, 2002",
+		"location":"Edmonton, Alberta",
+		"paperdate":"Mar 1, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://wwwlis.iei.pi.cnr.it/ISSTA2002/",
+		"confname":"ISSTA2002",
+		"confdate":"Jul 22-24, 2002",
+		"location":"Rome, Italy",
+		"paperdate":"Feb 1, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.dmi.unisa.it/seke/",
+		"confname":"SEKE2002",
+		"confdate":"Jul 15-18, 2002",
+		"location":"Ischia, Italy",
+		"paperdate":"Mar 5, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.ai.univ-paris8.fr/iwpc02/",
+		"confname":"IWPC 2002",
+		"confdate":"Jun 26-29, 2002",
+		"location":"Paris, France",
+		"paperdate":"Jan 24, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.dur.ac.uk/vissoft.2002/",
+		"confname":"VISSOFT 2002",
+		"confdate":"Jun 26, 2002",
+		"location":"Paris, France",
+		"paperdate":"Feb 12, 2002"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://www.software-metrics.org/",
+		"confname":"METRICS 2002",
+		"confdate":"Jun 4-7, 2002",
+		"location":"Ottawa, Canada",
+		"paperdate":"Aug 31, 2001"
+	},
+	{
+		"confstatus":"Past",
+		"linkname":"http://kogs-www.informatik.uni-hamburg.de/~d2k2/",
+		"confname":"Diagrams 2002",
+		"confdate":"Apr 18-20, 2002",
+		"location":"Callaway, Georgia",
+		"paperdate":"Nov 16, 2001"
+	}
+]}}
